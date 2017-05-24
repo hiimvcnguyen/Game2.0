@@ -9,7 +9,7 @@ public class MoveImage : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		mouseDownDown = true;
+		mouseDownDown = false;
 	}
 	
 	// Update is called once per frame
